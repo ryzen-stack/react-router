@@ -1,0 +1,41 @@
+.home
+{
+    background-color: brown;
+    height: 40px auto;
+    width: 600px;
+    margin-left: 400px;
+}
+
+.home a{
+    margin-left: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    
+}
+.home .active
+{
+    text-decoration: underline;
+}
+
+.product
+{
+    background-color: #322aa5;
+    width: 455px;
+    margin-top: 30px;
+    margin-left: 400px;
+    width: 600px;
+
+}
+
+.product a{
+    margin: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+.product .active
+{
+    text-decoration: underline;
+}

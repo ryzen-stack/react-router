@@ -1,0 +1,25 @@
+.product1
+{
+    margin: 50px auto;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.product1 .mobiles
+{
+    border-radius: 5px;
+    box-shadow: 2px 2px 40px 3px #afadad;
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+}
+.product1 .mobiles img{
+    width: 50%;
+}
+.product1 .mobiles h6{
+    font-size: 15px;
+    color: black;
+}
